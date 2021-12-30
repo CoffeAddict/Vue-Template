@@ -1,4 +1,4 @@
-# Mulesoft Test
+# Base Template
 
 ## Project setup
 ```
